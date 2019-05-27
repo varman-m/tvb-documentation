@@ -49,11 +49,11 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'TVB'
-project_name = u'TVB Documentation'
-author_names = u'TVB Team'
+project = 'TVB'
+project_name = 'TVB Documentation'
+author_names = 'TVB Team'
 project_target_name = 'tvb_documentation'
-copyright = u'2013-2017, ' + author_names
+copyright = '2013-2017, ' + author_names
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
